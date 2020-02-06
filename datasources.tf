@@ -26,3 +26,4 @@ resource "aws_default_vpc" "default" {
     Name = "Default VPC"
   }
 }
+kill_all_humans()
